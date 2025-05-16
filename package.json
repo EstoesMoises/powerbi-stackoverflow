@@ -8,17 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hschep/api-dashboard.git"
+    "url": "git+https://github.com/EstoesMoises/api-dashboard.git"
   },
-  "author": "Hannah Schepers",
+  "author": "EstoesMoises (originally by Hannah Schepers)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hschep/api-dashboard/issues"
+    "url": "https://github.com/EstoesMoises/api-dashboard/issues"
   },
-  "homepage": "https://github.com/hschep/api-dashboard#readme",
+  "homepage": "https://github.com/EstoesMoises/api-dashboard#readme",
   "dependencies": {
-    "axios": "^1.9.0",
-    "dedupe": "^4.0.1",
     "dotenv": "^16.0.3",
     "node-cron": "^3.0.2"
   }
